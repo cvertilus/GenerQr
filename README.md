@@ -1,4 +1,4 @@
-# ⚡ GenerQr
+# ⚡ GenerarQr
 
 ## 📖 Descripción  
 **GenerQr** es una aplicación web desarrollada con **React** y **Material UI**, que permite generar **códigos QR personalizados** de manera rápida y sencilla.  
